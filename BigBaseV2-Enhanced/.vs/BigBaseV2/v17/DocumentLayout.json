@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yusuf\\Desktop\\BigBaseV2-Enhanced\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF9F07A-2664-A5F1-6FA2-5697DB4B8346}|BigBaseV2.vcxproj|C:\\Users\\Yusuf\\Desktop\\BigBaseV2-Enhanced\\src\\script_mgr.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAF9F07A-2664-A5F1-6FA2-5697DB4B8346}|BigBaseV2.vcxproj|solutionrelative:src\\script_mgr.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF9F07A-2664-A5F1-6FA2-5697DB4B8346}|BigBaseV2.vcxproj|C:\\Users\\Yusuf\\Desktop\\BigBaseV2-Enhanced\\src\\vmt_hook.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAF9F07A-2664-A5F1-6FA2-5697DB4B8346}|BigBaseV2.vcxproj|solutionrelative:src\\vmt_hook.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF9F07A-2664-A5F1-6FA2-5697DB4B8346}|BigBaseV2.vcxproj|C:\\Users\\Yusuf\\Desktop\\BigBaseV2-Enhanced\\src\\pointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAF9F07A-2664-A5F1-6FA2-5697DB4B8346}|BigBaseV2.vcxproj|solutionrelative:src\\pointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF9F07A-2664-A5F1-6FA2-5697DB4B8346}|BigBaseV2.vcxproj|C:\\Users\\Yusuf\\Desktop\\BigBaseV2-Enhanced\\src\\natives.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAF9F07A-2664-A5F1-6FA2-5697DB4B8346}|BigBaseV2.vcxproj|solutionrelative:src\\natives.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF9F07A-2664-A5F1-6FA2-5697DB4B8346}|BigBaseV2.vcxproj|C:\\Users\\Yusuf\\Desktop\\BigBaseV2-Enhanced\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAF9F07A-2664-A5F1-6FA2-5697DB4B8346}|BigBaseV2.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF9F07A-2664-A5F1-6FA2-5697DB4B8346}|BigBaseV2.vcxproj|C:\\Users\\Yusuf\\Desktop\\BigBaseV2-Enhanced\\src\\file_manager\\file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAF9F07A-2664-A5F1-6FA2-5697DB4B8346}|BigBaseV2.vcxproj|solutionrelative:src\\file_manager\\file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "script_mgr.hpp",
+              "DocumentMoniker": "C:\\Users\\Yusuf\\Desktop\\BigBaseV2-Enhanced\\src\\script_mgr.hpp",
+              "RelativeDocumentMoniker": "src\\script_mgr.hpp",
+              "ToolTip": "C:\\Users\\Yusuf\\Desktop\\BigBaseV2-Enhanced\\src\\script_mgr.hpp",
+              "RelativeToolTip": "src\\script_mgr.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T12:25:22.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vmt_hook.hpp",
+              "DocumentMoniker": "C:\\Users\\Yusuf\\Desktop\\BigBaseV2-Enhanced\\src\\vmt_hook.hpp",
+              "RelativeDocumentMoniker": "src\\vmt_hook.hpp",
+              "ToolTip": "C:\\Users\\Yusuf\\Desktop\\BigBaseV2-Enhanced\\src\\vmt_hook.hpp",
+              "RelativeToolTip": "src\\vmt_hook.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T12:25:21.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Yusuf\\Desktop\\BigBaseV2-Enhanced\\src\\main.cpp",
+              "RelativeDocumentMoniker": "src\\main.cpp",
+              "ToolTip": "C:\\Users\\Yusuf\\Desktop\\BigBaseV2-Enhanced\\src\\main.cpp",
+              "RelativeToolTip": "src\\main.cpp",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T12:24:52.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pointers.cpp",
+              "DocumentMoniker": "C:\\Users\\Yusuf\\Desktop\\BigBaseV2-Enhanced\\src\\pointers.cpp",
+              "RelativeDocumentMoniker": "src\\pointers.cpp",
+              "ToolTip": "C:\\Users\\Yusuf\\Desktop\\BigBaseV2-Enhanced\\src\\pointers.cpp",
+              "RelativeToolTip": "src\\pointers.cpp",
+              "ViewState": "AgIAABQBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T12:24:51.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "natives.hpp",
+              "DocumentMoniker": "C:\\Users\\Yusuf\\Desktop\\BigBaseV2-Enhanced\\src\\natives.hpp",
+              "RelativeDocumentMoniker": "src\\natives.hpp",
+              "ToolTip": "C:\\Users\\Yusuf\\Desktop\\BigBaseV2-Enhanced\\src\\natives.hpp*",
+              "RelativeToolTip": "src\\natives.hpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYMAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T12:24:21.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "file.cpp",
+              "DocumentMoniker": "C:\\Users\\Yusuf\\Desktop\\BigBaseV2-Enhanced\\src\\file_manager\\file.cpp",
+              "RelativeDocumentMoniker": "src\\file_manager\\file.cpp",
+              "ToolTip": "C:\\Users\\Yusuf\\Desktop\\BigBaseV2-Enhanced\\src\\file_manager\\file.cpp",
+              "RelativeToolTip": "src\\file_manager\\file.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T12:23:53.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
